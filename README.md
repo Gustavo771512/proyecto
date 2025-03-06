@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+GO GYM
 
-Reemplace este texto con una descripción de su aplicación.
+Asistente para entrenamientos que diseña rutinas personalizadas de fuerza y cardio, registra progreso, gestiona ciclos de entrenamiento y ofrece alertas y temporizadores. Optimiza el rendimiento con seguimiento de marcas y predicción de PR, adaptando los entrenamientos a metas específicas.
 
-Author: Nombre del estudiante
+Author: Gustavo Rodriguez Martinez
 
 ## Referencias
 
