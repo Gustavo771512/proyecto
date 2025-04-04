@@ -12,5 +12,3 @@ La aplicación tendrá la siguientes pantallas
 ![4](https://github.com/user-attachments/assets/c39b1a8f-cafa-42d9-8e17-859282a0afcf)
   Pantalla 5: Calendario con tus semanas de carga y descarga
 ![5](https://github.com/user-attachments/assets/4ba06367-4d9a-491a-9b14-aa3ee144ff82)
- Pantalla 5: Cronómetro ajustado a tiempos de descanso entre series y tiempo de cardio
-![6](https://github.com/user-attachments/assets/f47a3db3-3d7e-4afb-ad65-f44585241ab5)
